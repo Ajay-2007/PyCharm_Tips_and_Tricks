@@ -7,3 +7,6 @@ some variable in the current file.
     - Use the same context menu item to see the history of changes on a directory. You will never lose any code with this feature!
     
 - `ctrl+E` (View|Recent Files) brings a popup list of the recently visited files. Choose the desired file and press `Enter` to open it.
+
+- To show seperator lines between methods in the editor, open the editor settings and select the `Show method separators` check box in the
+the `Appearance` page.
