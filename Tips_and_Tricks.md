@@ -10,3 +10,5 @@ some variable in the current file.
 
 - To show seperator lines between methods in the editor, open the editor settings and select the `Show method separators` check box in the
 the `Appearance` page.
+
+- When using basic code completion (`Ctrl+Space`), type an characters that exist anywhere in an identifier.
