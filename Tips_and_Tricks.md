@@ -14,3 +14,5 @@ the `Appearance` page.
 - When using basic code completion (`Ctrl+Space`), type an characters that exist anywhere in an identifier.
 
 - Use `Alt+Up` and `Alt+Down` keys to quickly move between methods in the editor.
+
+- Use the `Ctrl+Shift+V` shortcut to choose and insert recent clipboard contents into the text.
