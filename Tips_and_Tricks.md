@@ -16,3 +16,5 @@ the `Appearance` page.
 - Use `Alt+Up` and `Alt+Down` keys to quickly move between methods in the editor.
 
 - Use the `Ctrl+Shift+V` shortcut to choose and insert recent clipboard contents into the text.
+
+- The shortcuts such as `Ctrl+Q` (View|Quick Documentation), `Ctrl+P` (View|Parameter Info), `Ctrl+B` (Navigate|Declaration) and others can be used not only in the editor but in the code completion popup list as well.
