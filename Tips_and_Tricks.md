@@ -18,3 +18,6 @@ the `Appearance` page.
 - Use the `Ctrl+Shift+V` shortcut to choose and insert recent clipboard contents into the text.
 
 - The shortcuts such as `Ctrl+Q` (View|Quick Documentation), `Ctrl+P` (View|Parameter Info), `Ctrl+B` (Navigate|Declaration) and others can be used not only in the editor but in the code completion popup list as well.
+
+- To open any particular method of field in the editor quickly, press `Ctrl+Alt+Shift+N` (Navigate|Symbol) and start typing its name.
+Choose symbol from the drop-down list that appears.
