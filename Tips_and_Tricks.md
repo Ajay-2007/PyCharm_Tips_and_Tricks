@@ -21,3 +21,5 @@ the `Appearance` page.
 
 - To open any particular method of field in the editor quickly, press `Ctrl+Alt+Shift+N` (Navigate|Symbol) and start typing its name.
 Choose symbol from the drop-down list that appears.
+
+- Use `Alt+Shift+C` to quickly review your changes to the project.
