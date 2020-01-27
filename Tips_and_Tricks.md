@@ -23,3 +23,5 @@ the `Appearance` page.
 Choose symbol from the drop-down list that appears.
 
 - Use `Alt+Shift+C` to quickly review your changes to the project.
+
+- Use Basic Completion `Ctrl+Space` within HTML, CSS and other files, for completing image file names.
