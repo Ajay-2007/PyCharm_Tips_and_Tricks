@@ -25,3 +25,5 @@ Choose symbol from the drop-down list that appears.
 - Use `Alt+Shift+C` to quickly review your changes to the project.
 
 - Use Basic Completion `Ctrl+Space` within HTML, CSS and other files, for completing image file names.
+
+- With a single keystroke, you can apply another code style/coloring scheme or keymap right from the editor. Just press `Ctrl+'` View|Quick Switch Scheme) to specify the scheme you want to change.
